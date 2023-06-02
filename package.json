@@ -12,6 +12,9 @@
   "keywords": [],
   "author": "https://github.com/JoeRoddy",
   "license": "ISC",
+  "repository": {
+    "url": "https://github.com/JoeRoddy/valtown"
+  },
   "devDependencies": {
     "nodemon": "^2.0.22",
     "typescript": "^5.1.3"
